@@ -1,1 +1,0 @@
-var sr=require('./start1.js');
